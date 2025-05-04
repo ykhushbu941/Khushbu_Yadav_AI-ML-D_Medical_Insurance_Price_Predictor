@@ -3,7 +3,7 @@
 ## Team Members
 - **Khushbu Yadav** (2301730259)
 - **Priya Dagar** (2301730257)
-- **Dhairya** (@301730241)
+- **Dhairya** (2301730241)
 
 ## Project Description
 We have developed a machine learning model that predicts the cost of medical insurance based on the parameters entered by the user.  
